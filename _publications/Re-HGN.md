@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/re-hamiltonian-generative-networks
 excerpt: 'Re-implementation of the Hamiltonian Generative networks. Submitted to Papers of Code Reproducibility Challenge 2020.'
 date: May 2021
-venue: 'ReScience C'
+venue: 'ReScience C 7'
 paperurl: '[10.5281/zenodo.4835278](http://dx.doi.org/10.5281/zenodo.4835278)'
 citation: 'Balsells Rodas, C., Canal Anton, O., and Taschin, F. 2021. [Re] Hamiltonian Generative Networks. ReScience C 7, 2, #18.'
 ---
