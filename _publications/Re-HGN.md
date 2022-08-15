@@ -11,6 +11,6 @@ citation: 'Balsells Rodas, C., Canal Anton, O., and Taschin, F. 2021. [Re] Hamil
 
 Re-implementation of the Hamiltonian Generative networks. Submitted to Papers of Code Reproducibility Challenge 2020.
 
-[Download paper here](https://zenodo.org/record/4835278/files/article.pdf))
+[Download paper here](https://zenodo.org/record/4835278/files/article.pdf)
 
 Recommended citation: Balsells Rodas, C., Canal Anton, O., and Taschin, F. 2021. [Re] Hamiltonian Generative Networks. ReScience C 7, 2, #18.
