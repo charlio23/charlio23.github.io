@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Carles Balsells Rodas"
   avatar           : "carles_profile.jpeg"
-  bio              : "PhD student at Imperial College London, researching sequential representation learning with causality-driven methods."
+  bio              : "PhD student at Imperial College London, researching sequential representation learning with causality-driven methods and state-space models."
   location         : "London, UK"
   employer         :
   pubmed           : 
