@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carles' site"
+title                    : "Carles"
 title_separator          : "-"
-name                     : &name "Carles Balsells-Rodas"
+name                     : &name "Carles Balsells Rodas"
 description              : &description "PhD at Imperial College London"
 url                      : https://charlio23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carles Balsells-Rodas"
+  name             : "Carles Balsells Rodas"
   avatar           : "profile.png"
   bio              : "PhD student at Imperial College London, researching sequential representation learning with causality-driven methods."
   location         : "London, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=es&user=ZHmqn_AAAAAJ"
-  email            : "cb221(at)imperial.ac.uk"
+  email            : "cb221@imperial.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
